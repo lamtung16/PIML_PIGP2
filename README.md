@@ -1,1 +1,1 @@
-# GP_2
+Veiga, S. D., & Marrel, A. (2020). Gaussian process regression with linear inequality constraints. In Reliability Engineering &amp; System Safety (Vol. 195, p. 106732). Elsevier BV. https://doi.org/10.1016/j.ress.2019.106732
